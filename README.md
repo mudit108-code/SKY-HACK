@@ -34,6 +34,7 @@ streamlit run app.py
 ## Files
 - `app.py` — main Streamlit app
 - `README.md` — info file
+- `Demo.md` — for running app and experimentation 
 
 ## Design choices and options
 - The app trains on windows labeled as 'normal' and evaluates reconstruction error on all windows.
